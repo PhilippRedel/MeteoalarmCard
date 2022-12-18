@@ -60,7 +60,7 @@ export default css`
     margin-left: 18px;
     text-align: center;
     overflow: hidden;
-    white-space: nowrap;
+    white-space: normal;
     text-overflow: ellipsis;
   }
 
